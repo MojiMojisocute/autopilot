@@ -7,8 +7,8 @@ This project was developed for educational purposes, utilizing the YOLO model, O
 ├── main.py             # Main script
 ├── requirements.txt    # Required packages
 └── README.md           # Project description
-└── yolov8n.pt ()       # models (After running the program, you will see)
-└── autopilot-env ()    # Virtual Environment Path (After create venv, you will see)
+└── yolov8n.pt          # models (After running the program, you will see)
+└── autopilot-env       # Virtual Environment Path (After create venv, you will see)
 └── example             # Include your sample videos in this path
 ```
 
