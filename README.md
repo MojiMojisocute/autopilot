@@ -83,5 +83,22 @@ Improved autopilot system stopped
 2. Traffic light detection is not accurate enough
 3. The detection of car turn signals is not accurate enough because if the car's color matches the turn signal light, it causes detection errors.
 
+### Example image
+Video courtesy of [J Utah](https://www.youtube.com/watch?v=7HaJArMDKgI&t=1629s) and [7ze3 Travels](https://www.youtube.com/watch?v=b-WViLMs_4c)
+
+#### Standard
+<div align="center">
+
+<img src="./image/Screenshot%20from%202025-07-17%2003-59-52.png" width="400" />
+<img src="./image/Screenshot%20from%202025-07-17%2004-01-38.png" width="400" />
+
+</div>
+
+#### have bug (Traffic light detection is not working, turn signal detection is inaccurate, and lane detection is incorrect.)
+<div align="center">
+
+<img src="./image/Screenshot%20from%202025-07-17%2004-03-09.png" width="400" />
+
+</div>
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
